@@ -1,3 +1,5 @@
+_**date of creation: September, 2023**_
+
 ## Problem:
 To see which ML-algorithms give the best results for the credit scoring problem. The essence of the credit scoring task is: true or false a bank will issue a credit to a client, given input data about the client: name, gender, age, income, etc. Since the answer to the question is a yes/no answer, then we have a classification task before us.
 
